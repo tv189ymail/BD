@@ -1,0 +1,37 @@
+
+{
+    "urls": [
+        {
+            "url": "https://zhxy.neocities.org/666/50.js",
+            "name": "默认线路"
+        },
+          {
+            "url": "https://zhxy.neocities.org/666/t4.js",
+            "name": "T4聚合"
+        },
+        {
+            "url": "https://zhxy.neocities.org/666/b站.js",
+            "name": "B站专区"
+        },
+        
+            {
+            "url": "https://zhxy.neocities.org/666/学习.js",
+            "name": "知识学堂"
+        },   
+      
+    
+           {
+            "url": "",
+            "name": "待增加"
+        }
+    ],
+    
+    
+    
+    "vip": [
+        {
+            "url": "",
+            "name": "无"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+"urls": [
+
+{
+"url": "clan://localhost/tvbox_backup/1.json",
+"name": "本地线路[开启储存权限]clan://localhost/tvbox_backup/1.json"
+},
+{ "url": "clan://localhost/tvbox_backup/2.json",
+"name": "本地线路2[开始储存权限]clan://localhost/tvbox_backup/2.json"
+},
+{
+"url": "clan://localhost/tvbox_backup/3.json",
+"name": "本地线路3[开启储存权限]clan://localhost/tvbox_backup/3.json"
+
+},
+{
+"url": "clan://localhost/tvbox_backup/4.json",
+"name": "本地线路4[开启储存权限]clan://localhost/tvbox_backup/4.json"
+},
+{
+"url": "clan://localhost/tvbox_backup/5.json",
+"name": "本地线路5[开启储存权限]clan://localhost/tvbox_backup/5.json"
+},
+{
+"url": "clan://localhost/tvbox_backup/6.json",
+"name": "本地线路6[开启储存权限]clan://localhost/tvbox_backup/6.json"
+},
+{
+"url": "clan://localhost/tvbox_backup/7.json",
+"name": "本地线路7[开启储存权限]clan://localhost/tvbox_backup/7.json"
+},
+{
+"url": "clan://localhost/tvbox_backup/8.json",
+"name": "本地线路8[开启储存权限]clan://localhost/tvbox_backup/8.json"
+},
+{ "url": "clan://localhost/tvbox_backup/9.json",
+"name": "本地线路9[开始储存权限]clan://localhost/tvbox_backup/9.json"
+},
+{
+"url": "clan://localhost/tvbox_backup/10.json",
+"name": "本地线路10[开启储存权限]clan://localhost/tvbox_backup/10.json"
+},
+{ "url": "clan://localhost/tvbox_backup/11.json",
+"name": "本地线路11[开始储存权限]clan://localhost/tvbox_backup/11.json"
+},
+{
+"url": "clan://localhost/tvbox_backup/12.json",
+"name": "本地线路12[开启储存权限]clan://localhost/tvbox_backup/12.json"
+},
+{ "url": "clan://localhost/tvbox_backup/13.json",
+"name": "本地线路13[开始储存权限]clan://localhost/tvbox_backup/13.json"
+},
+{
+"url": "clan://localhost/tvbox_backup/14.json",
+"name": "本地线路14[开启储存权限]clan://localhost/tvbox_backup/14.json"
+},
+{ "url": "clan://localhost/tvbox_backup/15.json",
+"name": "本地线路15[开始储存权限]clan://localhost/tvbox_backup/15.json"
+},
+{
+"url": "clan://localhost/tvbox_backup/16.json",
+"name": "本地线路16[开启储存权限]clan://localhost/tvbox_backup/16.json"
+},
+{
+"url": "clan://localhost/tvbox_backup/17.json",
+"name": "本地线路17[开启储存权限]clan://localhost/tvbox_backup/17.json"
+},
+
+{ "url": "clan://localhost/tvbox_backup/18.json",
+"name": "本地线路18[开始储存权限]clan://localhost/tvbox_backup/18.json"
+}
+]
+}
