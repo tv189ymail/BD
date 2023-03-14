@@ -1,0 +1,1 @@
+还有需要的赶紧fork/派生：https://gitea.com/qiaoji/jar  fork/派生完把qiaoji.json里jar地址里的“你的gitea用户名”替换成你gitea的用户名。  再把https://gitea.com/你的用户名/jar/raw/branch/main/qiaoji.json中 "你的用户名" 替换成你gitea的用户名 此链接即是你的配置链接 放在TVbox接口里即可使用
